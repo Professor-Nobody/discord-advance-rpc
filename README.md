@@ -2,7 +2,7 @@
 <body>
     <div class="container" style="text-align: center";>
         <div class="hewader">
-            its an advance discord rpc easy to setup, with custome buttons and time stamps <br>
+            its an advance discord rpc easy to setup by "professor nobody", with custome buttons and time stamps <br>
  please make sure to follow me on 
  <a href="www.instagram.com/profesor_nobody_/">Instagram</a> <br>
  <p> Here you first need to download or clone this repository in replit and then you have to use </p> <br>
@@ -36,3 +36,5 @@ then in `test command` enter `node ./src/app.js` .  And at `Author` you can put 
     </div>
 </body>
 </html>
+
+# This RPC is Designed By "Professor Nobody"
